@@ -6,4 +6,4 @@ It is optional to give me credit. (WEcompany on Roblox)
 
 For help and support, reply to this: https://devforum.roblox.com/t/wes-robbery-kit-open-sourced/875009
 
-The standalone .rbxm files are all the way at the bottom of the file. You can insert them into your game, or convert them to a .rbxl file. 
+Here is a standalone .rbxm file, which you can convert to a .rbxl file or add directly to your game: 
